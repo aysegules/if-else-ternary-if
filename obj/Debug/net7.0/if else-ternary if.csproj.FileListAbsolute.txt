@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\bin\Debug\net7.0\if else-ternary if.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\bin\Debug\net7.0\if else-ternary if.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\bin\Debug\net7.0\if else-ternary if.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\bin\Debug\net7.0\if else-ternary if.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\bin\Debug\net7.0\if else-ternary if.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\refint\if else-ternary if.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\if else-ternary if.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\if else-ternary if\obj\Debug\net7.0\ref\if else-ternary if.dll
